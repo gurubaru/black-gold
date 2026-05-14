@@ -159,7 +159,7 @@ inset 0 1px 0 rgba(255,255,255,0.05);
 .hero-bg {
     position: absolute;
     inset: 0;
-    background: url('../prawed/RV_08792.JPG') center/cover no-repeat;
+    background: url('prawed/RV_08792.webp') center/cover no-repeat;
     transform: scale(1.1);
     transition: transform 8s ease-out;
 }
@@ -205,7 +205,7 @@ rgba(11,11,11,0.8) 100%
     transition: all 1.2s cubic-bezier(0.4, 0, 0.2, 1);
     text-shadow: 0 0 20px rgba(14, 14, 13, 0.473);
 
-    background-image: url('../prawed/RV_09055.JPG');
+    background-image: url('prawed/RV_09055.webp');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -296,7 +296,7 @@ padding: 120px 40px;
 .countdown-bg {
     position: absolute;
     inset: 0;
-    background: url('../prawed/RV_08921.JPG') center/cover no-repeat;
+    background: url('prawed/RV_08921.webp') center/cover no-repeat;
     filter: brightness(0.5);
     z-index: -1;
 }
@@ -594,7 +594,7 @@ display: none;
 .closing-bg {
     position: absolute;
     inset: 0;
-    background: url('../prawed/RV_08959.JPG') center/cover no-repeat;
+    background: url('prawed/RV_08959.webp') center/cover no-repeat;
     filter: brightness(0.4);
 }
 .closing-overlay {
